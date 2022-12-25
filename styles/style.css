@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+/*------NAV------*/
+
+.logo{
+    width: 50px;
+}
+
+
+/*------footer------*/
+
+.ft_color{
+    background-color: rgb(165, 165, 155);
+}
+
+
+/*------sucursales------*/
+
+.sucursal{
+    width: 100px;
+}
+
+/*------planes------*/
+
+.bg-plan{
+    border: black solid;
+    border-radius: 20px;
+}
